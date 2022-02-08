@@ -1,0 +1,6 @@
+CapacitiveSensorMinimal	KEYWORD1
+
+begin	KEYWORD2
+read	KEYWORD2
+readHiRes	KEYWORD2
+compare	KEYWORD2
