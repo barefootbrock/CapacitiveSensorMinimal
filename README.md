@@ -1,4 +1,4 @@
-#CapacitiveSensorMinimal Library#
+# CapacitiveSensorMinimal Library
 
 An alternative to the CapacitiveSensor that is much faster, requires only one pin, and does not need any external components. All that is needed is a single wire connected to any pin.
 
